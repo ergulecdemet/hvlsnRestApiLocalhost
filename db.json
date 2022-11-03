@@ -1,0 +1,68 @@
+{
+  "user": [
+    {
+      "name": "Demet",
+      "surname": "Çaban",
+      "lessonsId": "11",
+      "id": 1
+    },
+    {
+      "name": "Kübra",
+      "surname": "Maç",
+      "lessonsId": "12",
+      "id": 7
+    },
+    {
+      "name": "Zeynep",
+      "surname": "Salkım",
+      "lessonsId": "13",
+      "id": 8
+    },
+    {
+      "name": "Cengiz",
+      "surname": "İlikçi",
+      "lessonsId": "14",
+      "id": 9
+    },
+    {
+      "name": "Ahmet",
+      "surname": "Demir",
+      "lessonsId": "13",
+      "id": 10
+    },
+    {
+      "name": "Gürbüz",
+      "surname": "Kıvanç",
+      "lessonsId": "11",
+      "id": 11
+    },
+    {
+      "name": "İpek",
+      "surname": "Oluk",
+      "lessonsId": "13",
+      "id": 12
+    }
+  ],
+  "lessons": [
+    {
+      "id": "11",
+      "title": "Matematik",
+      "teacher": "Meltem Koz"
+    },
+    {
+      "id": "12",
+      "title": "Geometri",
+      "teacher": "Aslı Altın"
+    },
+    {
+      "id": "13",
+      "title": "Biyoloji",
+      "teacher": "Celal Cengiz"
+    },
+    {
+      "id": "14",
+      "title": "Tarih",
+      "teacher": "Abdullak Kara"
+    }
+  ]
+}
